@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1614865566266.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1850815125",
+    "id" : "464471A8",
+    "lastKnownWriteTime" : 1614865628,
+    "last_content_update" : 1614865628794,
+    "path" : "C:/Users/Evans/Desktop/New Testing _Git and R/Testing 2/Testing 2.R",
+    "project_path" : "Testing 2.R",
+    "properties" : {
+        "cursorPosition" : "0,32",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
